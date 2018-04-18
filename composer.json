@@ -1,0 +1,11 @@
+{
+    "name": "wlpi/vergy",
+    "description": "Theme WordPress, Basees_Vergy",
+    "authors": [
+        {
+            "name": "LeonVP",
+            "email": "vergy.prime@gmail.com"
+        }
+    ],
+    "require": {}
+}
